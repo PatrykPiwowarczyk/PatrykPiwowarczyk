@@ -1,4 +1,4 @@
-# Hi, I'm Sziperd! 👋
+# Hi, I'm Patryk! 👋
 <img src="https://github.com/Sziperd/Portfolio/blob/main/My%20project-2.png?raw=true" alt="banner that says Patryk Piwowarczyk">
 
 
@@ -7,7 +7,7 @@
 
 I'm a passionate iOS engineer who loves designing, coding and generally creating stuff on the internet. Currently I'm a Polsl student majoring automatic control and robotics, electronics, telecommunication and informatics.
 
-Also an Intern at DAZN as iOS Engineer!
+# Also an Intern at DAZN as iOS Engineer!
 
 
 
