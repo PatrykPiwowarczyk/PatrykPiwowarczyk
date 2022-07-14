@@ -7,7 +7,7 @@
 
 I'm a passionate iOS engineer who loves designing, coding and generally creating stuff on the internet. Currently I'm a Polsl student majoring automatic control and robotics, electronics, telecommunication and informatics.
 
-# Also an Intern at DAZN as iOS Engineer!
+### I'm also an intern iOS Engineer at DAZN!
 
 
 
