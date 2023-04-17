@@ -7,10 +7,8 @@
 
 I'm a passionate iOS engineer who loves designing, coding and generally creating stuff on the internet. 
 I graduated automatic control and robotics, electronics, telecommunication, informatics and space technologies at Polsl in '23. 
-Currently, I'm an Associate iOS Engineer at DAZN while pursuing masters degree in Management for Engineers.
 
-### I'm also an intern iOS Engineer at DAZN!
-
+### Currently, I'm an Associate iOS Engineer at DAZN while pursuing masters degree in Management for Engineers.
 
 
 ## Find me around the web 🌎:<a href="https://sziperd.github.io/"><img align="left" width="150" height="150" src="https://github.com/Sziperd/Portfolio/blob/main/UJvjpCkQ_4x.jpg.png?raw=true"></a>
