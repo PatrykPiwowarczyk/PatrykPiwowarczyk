@@ -5,7 +5,9 @@
 
 #### Welcome to my page, happy to see you!
 
-I'm a passionate iOS engineer who loves designing, coding and generally creating stuff on the internet. Currently I'm a Polsl student majoring automatic control and robotics, electronics, telecommunication and informatics.
+I'm a passionate iOS engineer who loves designing, coding and generally creating stuff on the internet. 
+I graduated automatic control and robotics, electronics, telecommunication, informatics and space technologies at Polsl in '23. 
+Currently, I'm an Associate iOS Engineer at DAZN while pursuing masters degree in Management for Engineers.
 
 ### I'm also an intern iOS Engineer at DAZN!
 
