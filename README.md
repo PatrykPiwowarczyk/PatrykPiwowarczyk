@@ -7,7 +7,7 @@
 
 I'm a passionate iOS engineer who loves designing, coding, and creating engaging digital experiences. I hold degrees in both technical and management fields, blending engineering expertise with leadership skills:
 
-• Engineer's degree in Engineering, specializing in Automatic Control and Robotics, Electronics, Telecommunications, Informatics, and Space Technologies from Politechnika Śląska.
+• Engineer's degree in Computer Science, specializing in Automatic Control and Robotics, Electronics, Telecommunications, Informatics, and Space Technologies from Politechnika Śląska.
 
 • Master’s degree in Management for Engineers from WSB University.
 
