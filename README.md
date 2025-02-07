@@ -12,7 +12,7 @@ I'm a passionate iOS engineer who loves designing, coding, and creating engaging
 • Master’s degree in Management for Engineers from WSB University.
 
 ### Currently, I'm an Associate iOS Engineer at DAZN, building great experiences for users. I’ve also launched Circler on the App Store—go check it out! And this is just the beginning—more apps are on the way!
-[AppStore](https://apps.apple.com/pl/app/circler-draw-perfect-circle/id6737745540?l=pl) 📱
+Circler - [AppStore](https://apps.apple.com/pl/app/circler-draw-perfect-circle/id6737745540?l=pl) 📱
 
 
 
